@@ -16,6 +16,6 @@ int main()
 	printf("&a : %08x %08x\n", &a, a); //afer 
 	printf("p : %08x %08x	%08x\n", pi, pc, pd); //before
 	printf("p+1: %08x	%08x	%08x\n", ++pi, ++pc, ++pd); //before
-	printf("p+1: %08x	%08x	%08x\n", pi+2, pc+2, pd+2); //before
+	printf("p+1: %08x	%08x	%08x\n", pi+2000, pc+2, pd+2); //before
 }
  

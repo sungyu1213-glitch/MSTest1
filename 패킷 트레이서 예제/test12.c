@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-char s1[] = "Good";
-char s2[] = "afternoon";
+char *s1 = "Good";
+char *s2 = "afternoon";
 
 char* ss[] = {s1, s2};
 
